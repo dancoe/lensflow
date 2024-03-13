@@ -1,5 +1,7 @@
 # lensflow
 
+[<img src=https://github.com/dancoe/lensflow/blob/main/lensflow%20halfsize.png>](https://github.com/dancoe/lensflow/blob/main/lensflow.png?raw=true)
+
 These scripts date back to 2017. And here's what I wrote about them:
 
 Right now my scripts are in three steps which:
